@@ -1,0 +1,1 @@
+текстом git is awesome!
